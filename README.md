@@ -2,7 +2,7 @@
 
 **AMZN Price Prediction | RMSE $9.58 (4% MAPE) | Predicted Jan 19 Close: $227.76**
 
-![Training Loss]
+**TRAINING PLOT**
 
 ![alt text](image.png)
 
@@ -14,8 +14,7 @@
 | MAPE | ~4% | Production-grade |
 | Train Loss | 0.000287 | Elite convergence |
 
-![Test Predictions]
-[test-plot]
+**TESTING PLOT**
 ![alt text](image-1.png)
 
 **Blue=Actual AMZN (2024-2026), Orange=Model** — Tracks trends, catches dips.
